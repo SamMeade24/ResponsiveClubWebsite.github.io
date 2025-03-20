@@ -162,7 +162,7 @@ nav a:hover {
 #quote-section {
     color: #ff6600;
     height: 9.5rem;
-    background-image: url(/bible.jpg);
+    background-image: url(bible.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
