@@ -76,7 +76,7 @@ nav a:hover {
 .hero-banner {
     height: 35rem;
     margin: 1rem;
-    background-image: url(./Images/outside-church.jpg);
+    background-image: url(outside-church.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -131,21 +131,21 @@ nav a:hover {
 }
 
 #inside-church {
-    background-image: url(./Images/inside-church.jpg);
+    background-image: url(inside-church.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #chapel {
-    background-image: url(./Images/chapel.jpg);
+    background-image: url(chapel.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #stained-glass-window {
-    background-image: url(./Images/stained-glass-windows.jpg);
+    background-image: url(stained-glass-windows.jpg);
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -162,7 +162,7 @@ nav a:hover {
 #quote-section {
     color: #ff6600;
     height: 9.5rem;
-    background-image: url(./Images/bible.jpg);
+    background-image: url(bible.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -200,7 +200,7 @@ nav a:hover {
     color: #f2f2f2;
     text-align: center;
     height: 25rem;
-    background-image: url(./Images/Sign-Up-Section-background.jpg);
+    background-image: url(Sign-Up-Section-background.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat; 
